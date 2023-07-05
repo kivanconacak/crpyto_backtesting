@@ -1,0 +1,11 @@
+2023-06-30 12:28:38,031 DEBUG :: Starting new HTTPS connection (1): fapi.binance.com:443
+2023-06-30 12:28:39,187 DEBUG :: https://fapi.binance.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-06-30 12:31:55,041 DEBUG :: Starting new HTTPS connection (1): api.etoro.com:443
+2023-06-30 12:31:55,235 DEBUG :: https://api.etoro.com:443 "GET /System/V1/MarketEvents HTTP/1.1" 401 152
+2023-06-30 12:31:55,236 ERROR :: Error while making request to /System/V1/MarketEvents: {'statusCode': 401, 'message': 'Access denied due to missing subscription key. Make sure to include subscription key when making requests to an API.'} (status code = 401)
+2023-06-30 12:39:08,071 ERROR :: Connection error while making request to /System/V1/MarketEvents: 'EToroClient' object has no attribute '_headers'
+2023-06-30 12:42:16,621 DEBUG :: Starting new HTTPS connection (1): api.etoro.com:443
+2023-06-30 12:42:22,801 DEBUG :: https://api.etoro.com:443 "GET /System/V1/MarketEvents?Ocp-Apim-Subscription-Key=%7Bsubscription+key%7D HTTP/1.1" 401 152
+2023-06-30 12:42:22,802 ERROR :: Error while making request to /System/V1/MarketEvents: {'statusCode': 401, 'message': 'Access denied due to missing subscription key. Make sure to include subscription key when making requests to an API.'} (status code = 401)
+2023-07-05 13:21:18,730 DEBUG :: Starting new HTTPS connection (1): fapi.binance.com:443
+2023-07-05 13:21:19,838 DEBUG :: https://fapi.binance.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None

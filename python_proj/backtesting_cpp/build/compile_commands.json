@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/kivan/Desktop/crpyto_backtesting/python_proj/backtesting_cpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DH5_BUILT_AS_DYNAMIC_LIB @CMakeFiles/backtesting_cpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\backtesting_cpp.dir\\main.cpp.obj -c C:\\Users\\kivan\\Desktop\\crpyto_backtesting\\python_proj\\backtesting_cpp\\main.cpp",
+  "file": "C:/Users/kivan/Desktop/crpyto_backtesting/python_proj/backtesting_cpp/main.cpp",
+  "output": "CMakeFiles/backtesting_cpp.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/kivan/Desktop/crpyto_backtesting/python_proj/backtesting_cpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DH5_BUILT_AS_DYNAMIC_LIB @CMakeFiles/backtesting_cpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\backtesting_cpp.dir\\Database.cpp.obj -c C:\\Users\\kivan\\Desktop\\crpyto_backtesting\\python_proj\\backtesting_cpp\\Database.cpp",
+  "file": "C:/Users/kivan/Desktop/crpyto_backtesting/python_proj/backtesting_cpp/Database.cpp",
+  "output": "CMakeFiles/backtesting_cpp.dir/Database.cpp.obj"
+}
+]
